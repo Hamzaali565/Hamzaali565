@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaali565&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaali565" /> </p>
 
-- 🔭 I’m currently working on **Assignments**
+- 🔭 I’m currently working at **Stallyons Technologies**
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [github.com/hamzaali565](github.com/hamzaali565)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **HTML, CSS, JS, ReactJS, React Native, NodeJS, MongoDB,**
 
 - 📫 How to reach me **alimuhammadhamza402@gmail.com**
 
