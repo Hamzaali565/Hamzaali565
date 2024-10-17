@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/hamzaali565](github.com/hamzaali565)
 
-- 💬 Ask me about ** JS, React.js, React Native,Next.js, Node.js, Express.js, MongoDB, MySQL, Bootstrap, MaterialUI, Tailwind.css **
+- 💬 Ask me about **JS, React.js, React Native,Next.js, Node.js, Express.js, MongoDB, MySQL, Bootstrap, MaterialUI, Tailwind.css**
 
 - 📫 How to reach me **alimuhammadhamza402@gmail.com**
 
