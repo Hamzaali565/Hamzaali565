@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Zubaida Medical Centre**
 
-- 🌱 I’m currently learning **Next.js, GraphQL & Nest.js**
+- 🌱 I’m currently learning **Next.js, GraphQL & Typescript**
 
 - 👨‍💻 All of my projects are available at [github.com/hamzaali565](github.com/hamzaali565)
 
