@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaali565&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaali565" /> </p>
 
-- 🔭 I’m currently working at **IT Soft**
+- 🔭 I’m currently working at **InSoft IT**
 
 - 🌱 I’m currently learning **NextJS, NestJS, sql & Typescript**
 
